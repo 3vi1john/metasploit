@@ -17,7 +17,7 @@ class Metasploit3 < Msf::Auxiliary
 			'Description'	=> %q{
 				This module forges CDP packets.
 			},
-			'Author'		=> [ 'Spencer McIntyre <zerosteiner [at] gmail.com>' ],
+			'Author'		=> [ 'jbabio [at] me.com>' ],
 			'License'		=> MSF_LICENSE,
 			'Actions'     =>
 				[
